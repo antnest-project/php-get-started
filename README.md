@@ -1,5 +1,8 @@
 # php-get-started
 
+## Accounts
+- Register Github Account
+
 ## Tools
 - [Git](https://git-scm.com/)
 - [Docker](https://www.docker.com/get-started)
