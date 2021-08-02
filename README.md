@@ -1,7 +1,7 @@
 # php-get-started
 
 ## Accounts
-- Register Github Account
+- Register [Github](https://github.com/) Account
 
 ## Tools
 - [Git](https://git-scm.com/)
